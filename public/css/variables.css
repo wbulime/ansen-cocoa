@@ -1,0 +1,52 @@
+:root {
+  /* ── Brand Colors ── */
+  --color-primary:     #4A2C0A;
+  --color-secondary:   #8B5C2A;
+  --color-accent:      #D4841A;
+  --color-light:       #F5EFE6;
+  --color-text:        #1A1A1A;
+  --color-text-muted:  #6B5744;
+  --color-white:       #FFFFFF;
+  --color-dark-overlay: rgba(30, 15, 5, 0.72);
+  --color-card-shadow: rgba(74, 44, 10, 0.12);
+  --color-card-shadow-hover: rgba(74, 44, 10, 0.22);
+
+  /* ── Typography ── */
+  --font-heading: 'Playfair Display', Georgia, serif;
+  --font-body:    'Inter', system-ui, -apple-system, sans-serif;
+
+  --fs-display: clamp(2.4rem, 5vw, 4.2rem);
+  --fs-h1:      clamp(2rem, 4vw, 3.2rem);
+  --fs-h2:      clamp(1.6rem, 3vw, 2.4rem);
+  --fs-h3:      clamp(1.2rem, 2vw, 1.6rem);
+  --fs-body:    1rem;
+  --fs-small:   0.875rem;
+  --fs-xs:      0.75rem;
+
+  --fw-regular:  400;
+  --fw-medium:   500;
+  --fw-semibold: 600;
+  --fw-bold:     700;
+
+  /* ── Spacing ── */
+  --space-xs:   0.5rem;
+  --space-sm:   1rem;
+  --space-md:   1.5rem;
+  --space-lg:   2.5rem;
+  --space-xl:   4rem;
+  --space-2xl:  6rem;
+  --space-3xl:  8rem;
+
+  /* ── Layout ── */
+  --max-width:      1280px;
+  --nav-height:     72px;
+  --border-radius:  12px;
+  --border-radius-sm: 8px;
+  --border-radius-lg: 20px;
+
+  /* ── Transitions ── */
+  --transition-fast:   0.2s ease;
+  --transition-base:   0.35s ease;
+  --transition-slow:   0.65s ease;
+  --transition-spring: 0.4s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
