@@ -162,7 +162,7 @@ export default function Home() {
 
         <div className="hero-content">
           <span className="hero-badge">Crafted in Uganda</span>
-          <h1>Pure Cocoa.<br/>Purposefully Processed.</h1>
+          <h1>Pure Cocoa. Purposefully Processed.</h1>
           <p>We transform Uganda's finest cocoa beans into premium cocoa products,<br/><span style={{whiteSpace:'nowrap'}}>crafted with integrity and delivered with purpose.</span></p>
           <div className="hero-buttons">
             <a href="#products" className="btn btn-primary">
