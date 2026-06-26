@@ -85,8 +85,8 @@ export default function RootLayout({
                   email: 'kiteindustrieslimited@gmail.com',
                   address: {
                     '@type': 'PostalAddress',
-                    streetAddress: 'P.O. Box 313',
-                    addressLocality: 'Wobulenzi',
+                    streetAddress: 'P.O Box 801802',
+                    addressLocality: 'Ntinda, Kampala',
                     addressCountry: 'UG',
                   },
                   parentOrganization: {

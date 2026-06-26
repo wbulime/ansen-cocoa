@@ -471,7 +471,7 @@ export default function Home() {
             </div>
           </div>
           <div className="footer-bottom">
-            <p>&copy; 2026 Ansen Cocoa (Kite Industries Limited). All rights reserved. | P.O. Box 313, Wobulenzi, Uganda | kiteindustrieslimited@gmail.com</p>
+            <p>&copy; 2026 Ansen Cocoa (Kite Industries Limited). All rights reserved. | P.O Box 801802 Ntinda, Kampala | kiteindustrieslimited@gmail.com</p>
           </div>
         </div>
       </footer>
